@@ -1,5 +1,7 @@
 h3 {
-    color: brown;
+    color: darkblue;
     text-align: center;
-    background-image:images01.jpg;
+    background-image:url(images01.jpg);
+    height:232px ;
+    width: 218px;
 }
